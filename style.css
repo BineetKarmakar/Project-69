@@ -43,3 +43,15 @@ h1 {
 #t{
     text-align: center;
 }
+.img_modal{
+    display: inline-block;
+}
+.modal_body{
+    text-align: center;
+}
+.al{
+    text-align: center;
+}
+.al img{
+    padding-left: 30%;
+}
